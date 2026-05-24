@@ -1,0 +1,34 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: Arial;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+.input-group {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  padding: 10px;
+  background: #1f1f1f;
+}
