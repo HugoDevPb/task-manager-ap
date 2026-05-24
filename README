@@ -1,28 +1,51 @@
-# task-manager-ap
-Sistema de gerenciamento de tarefas utilizando React e Node.js.
+# 🚀 TaskFlow
 
-# TaskFlow
+Sistema de gerenciamento de tarefas desenvolvido com React e Node.js.
 
-Sistema de gerenciamento de tarefas utilizando React e Node.js.
+---
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-- Criar tarefas
-- Listar tarefas
-- Excluir tarefas
+- ✅ Criar tarefas
+- 📋 Listar tarefas
+- ❌ Excluir tarefas
 
-## Tecnologias
+---
+
+## 🛠 Tecnologias
 
 - React
 - Node.js
 - Express
+- Axios
+- CSS
 
-## Como executar
+---
+
+## 📦 Como executar o projeto
 
 ### Backend
 
 ```bash
 npm install
 npm start
+```
+
+### Frontend
+
+```bash
 npm install
 npm run dev
+```
+
+---
+
+## 📸 Preview
+
+Adicione prints do sistema aqui.
+
+---
+
+## 👨‍💻 Autor
+
+Hugo Lins
